@@ -31,17 +31,7 @@
 wget https://raw.githubusercontent.com/raziman869/Aut
   ```
 
-<h3 align="center">Installation (Experimental)</h3>
 
-  ```html
-wget https://raw.githubusercontent.com/raziman869/AutoScriptDB/master/DBE && chmod +x DBE && ./DBE
-  ```
- 
-<h3 align="center">Installation (Unstable Early Version)</h3>
-
-  ```html
-wget https://raw.githubusercontent.com/raziman869/AutoScriptDB/master/DBM && chmod +x DBM && ./DBM
-  ```
 
 
 
