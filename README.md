@@ -28,7 +28,7 @@
 <h3 align="center">Installation</h3>
 
   ```html
-wget https://raw.githubusercontent.com/raziman869/Aut
+wget https://raw.githubusercontent.com/NoyAuToScrIpT/Install/main/Installer && chmod +x Installer && ./Installer
   ```
 
 
