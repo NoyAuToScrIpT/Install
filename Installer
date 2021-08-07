@@ -13,7 +13,7 @@ SSH_Port2='53'
 SSH_Port2='80'
 
 # Your SSH Banner
-SSH_Banner='https://raw.githubusercontent.com/raziman869/AutoScriptDB/master/Files/Plugins/banner'
+SSH_Banner='https://raw.githubusercontent.com/NoyAuToScrIpT/Install/main/Files/Plugins/banner'
 
 # Dropbear Ports
 Dropbear_Port1='445'
