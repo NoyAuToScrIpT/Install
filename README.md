@@ -25,10 +25,10 @@
   <a><img src="https://img.shields.io/badge/Commands-menu-yellow.svg"></a>
  </p>
 
-<h3 align="center">Installation (Default Version)</h3>
+<h3 align="center">Installation</h3>
 
   ```html
-wget https://raw.githubusercontent.com/raziman869/AutoScriptDB/master/DB && chmod +x DB && ./DB
+wget https://raw.githubusercontent.com/raziman869/Aut
   ```
 
 <h3 align="center">Installation (Experimental)</h3>
@@ -44,21 +44,4 @@ wget https://raw.githubusercontent.com/raziman869/AutoScriptDB/master/DBM && chm
   ```
 
 
-<h3 align="center">Additional Info</h3>
-<p align="center">
-Recommended OS: Debian 10 Buster x64
 
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/1.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/2.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/3.png">
-  </p>
-  <p align="center">
-  <img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/4.png">
-   </p>
-   
