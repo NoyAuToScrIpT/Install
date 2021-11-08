@@ -1,4 +1,4 @@
-#!/bin/bash# Script by Bonveio Abitona
+#!/bin/bash
 # 
 # Illegal selling and redistribution of this script is strictly prohibited
 # Please respect author's Property
