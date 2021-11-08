@@ -1,5 +1,4 @@
 #!/bin/bash
-# 
 # Illegal selling and redistribution of this script is strictly prohibited
 # Please respect author's Property
 # Binigay sainyo ng libre, ipamahagi nyo rin ng libre.
@@ -12,14 +11,14 @@
 #############################
 # Variables (Can be changed depends on your preferred values)
 # Script name
-MyScriptName='JRC'
+MyScriptName='MARKKINGDURAN'
 
 # OpenSSH Ports
 SSH_Port1='22'
 SSH_Port2='225'
 
 # Your SSH Banner
-SSH_Banner='https://raw.githubusercontent.com/NoyAuToScrIpT/Install/main/Files/Plugins/banner'
+SSH_Banner='https://pastegen.com/raw/FNrBBTyxGF'
 
 # Dropbear Ports
 Dropbear_Port1='550'
@@ -890,5 +889,5 @@ echo "CREDITS: BonvScripts"
 # Clearing all logs from installation
  rm -rf /root/.bash_history && history -c && echo '' > /var/log/syslog
 
-rm -f DevInstaller.sh*
+rm -f DebianVPS-Installer*
 exit 1
